@@ -6,3 +6,4 @@ This respository captures my personal solutions to the Data Analysis with Python
 * Book Recommendation Engine using KNN
 * Linear Regression Health Costs Calculator
 * Neural Network SMS Text Classifier
+* Verify this certification at https://freecodecamp.org/certification/ahmed_bouhachem/machine-learning-with-python-v7
